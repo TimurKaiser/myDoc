@@ -1,0 +1,28 @@
+
+#### **Changements dans le développement d'applications grâce au cloud**
+
+Avec l'avènement du cloud moderne, le développement d'applications logicielles a connu une transformation majeure. Contrairement aux applications traditionnelles monolithiques où tous les composants sont couplés et doivent être développés dans un même langage et déployés ensemble, les applications modernes dans le cloud sont beaucoup plus flexibles et évolutives.
+
+#### **Principaux avantages du développement d'applications cloud modernes :**
+
+| **Avantage**                          | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Architecture microservices**        | Les applications cloud modernes sont souvent composées de microservices, des petits services indépendants qui peuvent être déployés et mis à jour individuellement, permettant un développement rapide et agile.                                                                                                                                                                                                                          |
+| **Déploiement sur le cloud**          | Les applications modernes sont généralement déployées sur le cloud, avec des options de services gérés ou partiellement gérés.              Les services gérés s'occupent de l'infrastructure, ce qui libère les équipes pour se concentrer sur le développement des fonctionnalités.  Les services partiellement gérés sont une approche hybride où l'entreprise gère certains aspects de l'application et le fournisseur gère le reste. |
+| **Coût (Pay-as-you-go)**              | La tarification à l'utilisation permet de rendre les applications cloud rentables, car les entreprises ne paient que pour les ressources qu'elles consomment, sans avoir à investir dans des ressources non utilisées.                                                                                                                                                                                                                    |
+| **Haute disponibilité et résilience** | Les applications cloud sont conçues pour être résilientes avec des mécanismes comme l'équilibrage de charge et le basculement automatique, garantissant une disponibilité continue même en cas de défaillance de certains composants.                                                                                                                                                                                                     |
+| **Outils de surveillance et gestion** | Les fournisseurs de services cloud offrent des outils puissants de surveillance pour détecter et résoudre rapidement les problèmes, assurant une gestion proactive et une fiabilité accrue des applications cloud.                                                                                                                                                                                                                        |
+
+#### **Explication des concepts clés :**
+
+1. **Microservices** : Plutôt que de développer une application monolithique avec un seul code de base, les applications cloud modernes sont composées de microservices indépendants. Cela permet de déployer, mettre à jour et tester chaque fonctionnalité de manière isolée et rapide, favorisant une agilité accrue.
+2. **Services gérés vs partiellement gérés** :
+    - **Services gérés** : Le fournisseur de services cloud prend en charge l'infrastructure, incluant la gestion des patchs, des mises à jour et de la surveillance. Cela permet aux équipes de se concentrer sur le développement.
+    - **Services partiellement gérés** : L'entreprise garde un contrôle partiel sur certains aspects (par exemple, la gestion des bases de données), mais le fournisseur gère d'autres parties de l'infrastructure.
+3. **Pay-as-you-go (tarification à l'utilisation)** : Les applications cloud modernes utilisent ce modèle de tarification, ce qui permet de ne payer que pour ce que l'on utilise réellement. Ce modèle est rentable, particulièrement pour les entreprises dont les besoins fluctuent, car il élimine les coûts liés aux ressources inutilisées.
+4. **Haute disponibilité et résilience** :
+    - **Équilibrage de charge** : Répartition du trafic réseau sur plusieurs serveurs pour assurer une performance constante.
+    - **Basculement automatique** : Lorsque l'un des serveurs échoue, l'application passe automatiquement à un serveur de secours pour assurer la continuité du service sans interruption.
+#### **Conclusion :**
+
+Le cloud moderne transforme le développement d'applications logicielles en rendant les processus plus flexibles, évolutifs et rentables. Les architectures en microservices, combinées aux services gérés et à la tarification à l'utilisation, permettent aux entreprises de se concentrer sur l'innovation et la création de valeur plutôt que sur la gestion de l'infrastructure.
